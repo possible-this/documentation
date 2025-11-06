@@ -1,10 +1,10 @@
-## Project Implementation Timeline
+## Project Timeline & Implementation Checklist
 
 ### Phase 1: Setup & Foundations (Weeks 1-4)
 
 | Done   | ID   | Description                                                                                                                              | Dependencies   | Duration   |
 |:-------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------|
-| ✅     | 1.1  | Acquire primary email and secure all social handles.                                                           | nan            | 1 Week     |
+| ✅     | 1.1  | Acquire domain name and primary email, secure all social handles.                                                           | nan            | 1 Week     |
 | ☐      | 1.2  | Select and purchase robust website hosting (VPS/Managed WordPress) for high-traffic content volume.                                      | nan            | 1 Week     |
 | ☐      | 1.3  | Set up Gemini API key/billing and establish basic Flash-Lite text generation functionality.                                              | nan            | 2 Weeks    |
 | ☐      | 1.4  | Design and implement Link-in-Bio page (e.g., Linktree Pro) for trackable link funnel, integrating Google Analytics.                      | 1.1            | 1 Week     |
