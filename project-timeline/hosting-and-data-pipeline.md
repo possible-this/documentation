@@ -8,7 +8,7 @@ This document outlines the architectural rationale for website hosting and the d
 
 ### The Decision: Robust Hosting for High Traffic
 
-* **Choice:** Select and purchase **robust website hosting** (VPS, Managed WordPress, or Cloud Hosting like IONOS) capable of handling **high-traffic content volume**.
+* **Choice:** Select and purchase **robust website hosting** (VPS, Managed WordPress, or Cloud Hosting like Bluehost or IONOS) capable of handling **high-traffic content volume**.
 * **Rationale:** For a high-frequency, content-driven site involving user submissions and voting, shared hosting is inadequate. A dedicated-resource solution (VPS/Cloud) ensures **performance, uptime, and scalability** are maintained even during traffic spikes, preventing the live website from slowing down.
 
 ### Role of the Operational Database
