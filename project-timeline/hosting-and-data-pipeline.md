@@ -11,6 +11,12 @@ This document outlines the architectural rationale for website hosting and the d
 * **Choice:** Select and purchase **robust website hosting** (VPS, Managed WordPress, or Cloud Hosting like Bluehost or IONOS) capable of handling **high-traffic content volume**.
 * **Rationale:** For a high-frequency, content-driven site involving user submissions and voting, shared hosting is inadequate. A dedicated-resource solution (VPS/Cloud) ensures **performance, uptime, and scalability** are maintained even during traffic spikes, preventing the live website from slowing down.
 
+**Suggested Specs:**
+* 4 vCPU Cores - Required for handling multiple concurrent AI-generation tasks and user traffic spikes.
+* 8+ GB RAM - Ample memory for the complete NGINX, Redis, and WordPress stack to prevent out-of-memory errors under load.
+* 200+ GB NVMe SSD Storage - Fast NVMe storage is critical for rapid database (MariaDB) operations and quick loading of high-volume image assets.
+* Unlimited Bandwidth - A high-volume, automated content project delivering large image files will quickly consume limited data caps, leading to slowdowns, overage fees, or site suspension during traffic spikes.  
+
 ### Role of the Operational Database
 
 The primary database, which resides on this hosting, is the **Source of Truth** for the live site's operations.
