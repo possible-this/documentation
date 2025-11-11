@@ -6,7 +6,7 @@
 |:-------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------|
 | ✅     | 1.1  | Acquire domain name and primary email, secure all social handles.                                                           | nan            | 1 Week     |
 | ✅     | 1.2  | Select and purchase robust website hosting (VPS/Managed WordPress) for high-traffic content volume.                                      | nan            | 1 Week     |
-| ☐      | 1.3  | Set up Gemini API key/billing and establish basic Flash-Lite text generation functionality.                                              | nan            | 2 Weeks    |
+| ✅     | 1.3  | Set up Gemini API key/billing, pro account subscription, and establish basic Flash-Lite text generation functionality.                                              | nan            | 2 Weeks    |
 | ☐      | 1.4  | Design and implement Link-in-Bio page (e.g., Bio Sites) and UTM naming schema for trackable link funnel, integrating Google Analytics.                      | 1.1            | 1 Week     |
 | ☐      | 1.5  | Install WordPress/CMS and develop the foundational theme/structure.                                                                      | 1.2            | 2 Weeks    |
 
