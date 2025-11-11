@@ -14,8 +14,9 @@ This palette is designed to be **dark-mode first**, ensuring the bright blue acc
 
 | Name | Hex Code | Usage | Rationale |
 | :--- | :--- | :--- | :--- |
-| **Primary Base** | `#000000` | Backgrounds, Panels, Containers | Absolute black for maximum contrast and a "void of space" feeling, matching the banner. |
-| **Accent Glow** | `#0099FF` | Primary Call-to-Action (CTA) buttons, link hover states, key icons, question mark outline. | Matches the intense blue light flare in your visuals. Represents knowledge, future, and energy. |
+| **Background** | `#000000` | Backgrounds, Panels, Containers | Absolute black for maximum contrast and a "void of space" feeling, matching the banner. |
+| **Primary Base** | `#006DF6` | Features, Primary Call-to-Action (CTA) buttons, Links | Bold blue for maximum contrast and a mysterious feeling. |
+| **Accent Glow** | `#0099FF` | Button hover, link hover states, key icons, question mark outline. | Matches the intense blue light flare in your visuals. Represents knowledge, future, and energy. |
 | **Subtle Shine** | `#A8C3E5` | Body text, subheadings, subtle borders, analysis data points. | A light, cool-toned grey that provides readability against black without being a harsh white. |
 | **System Status** | `#00FF00` | "Possible" verdict highlights, key status indicators, success messages. | Classic neon green for a data stream/terminal feel, providing contrast to the blue. |
 
@@ -25,14 +26,8 @@ This palette is designed to be **dark-mode first**, ensuring the bright blue acc
 
 We need a font pairing that is **highly readable** for long-form analysis (SEO-driven content) but features a **modern, geometric flair** for headers and titles to emphasize the technology and future focus.
 
-#### 1. Primary Header Font (The Brand Voice)
-* **Font**: **Orbitron** or **Rajdhani**
-* **Style**: Sans-serif, geometric, futuristic, slightly blocky/technical.
-* **Usage**: Site titles, major headings (e.g., "Operational Blueprint"), navigation links, and the **Possible Verdict** results.
-* **Reason**: Directly conveys a high-tech, sci-fi aesthetic, reinforcing the **Speculative Design Framework** mentioned in your document.
-
-#### 2. Secondary Body Font (The Analysis Engine)
-* **Font**: **Montserrat** or **Inter**
+#### 1. Primary Font (The Brand Voice)
+* **Font**: **Roboto** or **Montserrat** or similar.
 * **Style**: Clean, highly readable, modern, versatile sans-serif.
 * **Usage**: All long-form text, detailed analysis, bullet points, table content, and mobile text.
 * **Reason**: **Readability is paramount** for your high-volume SEO content (1,000+ word articles). These fonts are clear at small sizes and project a professional, modern feel.
