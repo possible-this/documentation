@@ -4,11 +4,12 @@
 
 | Done   | ID   | Description                                                                                                                              | Dependencies   | Duration   |
 |:-------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------|
-| ✅     | 1.1  | Acquire domain name and primary email, secure all social handles.                                                           | nan            | 1 Week     |
+| ✅     | 1.1  | Acquire domain name and primary email, secure all social handles.                                                                        | nan            | 1 Week     |
 | ✅     | 1.2  | Select and purchase robust website hosting (VPS/Managed WordPress) for high-traffic content volume.                                      | nan            | 1 Week     |
-| ✅     | 1.3  | Set up Gemini API key/billing, pro account subscription, and establish basic Flash-Lite text generation functionality.                                              | nan            | 2 Weeks    |
-| ✅     | 1.4  | Design and implement Link-in-Bio page (e.g., Bio Sites) and UTM naming schema for trackable link funnel, integrating Google Analytics.                      | 1.1            | 1 Week     |
-| ☐      | 1.5  | Install WordPress/CMS and develop the foundational theme/structure.                                                                      | 1.2            | 2 Weeks    |
+| ✅     | 1.3  | Set up Gemini API key/billing, pro account subscription, and establish basic Flash-Lite text generation functionality.                   | nan            | 2 Weeks    |
+| ✅     | 1.4  | Design and implement Link-in-Bio page (e.g., Bio Sites) and UTM naming schema for trackable link funnel, integrating Google Analytics.   | 1.1            | 1 Week     |
+| ☐      | 1.5  | Setup Stripe payment gateway and thoroughly test sandbox.                                                                                | 1.2            | 2 Weeks    |
+| ☐      | 1.6  | Install WordPress/CMS and develop the foundational theme/structure.                                                                      | 1.1            | 1 Week    |
 
 ### Phase 2: Core Engineering (Weeks 5-8)
 
@@ -16,17 +17,17 @@
 |:-------|:-----|:--------------------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------|
 | ☐      | 2.1  | Purchase and integrate X (Twitter) Basic API subscription.                                                                            | 1.3            | 1 Week     |
 | ☐      | 2.2  | Develop 'Possible' Verdict Engine (Core Bot Logic) using Gemini's Function Calling for sentiment/database checks.                     | 1.3, 2.1       | 3 Weeks    |
-| ☐      | 2.3  | Develop UGC Submission Form (e.g., Youform Pro) with file upload capability and Explicit Consent notice for the social experiment. | 1.5            | 2 Weeks    |
-| ☐      | 2.4  | Architect Futures Cone content categories (Probable, Plausible, Possible, Impossible) on the website.                                             | 1.5            | 1 Week     |
+| ☐      | 2.3  | Develop UGC Submission Form (e.g., Youform Pro) with file upload capability and Explicit Consent notice for the social experiment.    | 1.5            | 2 Weeks    |
+| ☐      | 2.4  | Architect Futures Cone content categories (Probable, Plausible, Possible, Impossible) on the website.                                 | 1.5            | 1 Week     |
 
 ### Phase 3: Content Automation & Gamification (Weeks 9-12)
 
 | Done   | ID   | Description                                                                                                             | Dependencies   | Duration   |
 |:-------|:-----|:------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------|
 | ☐      | 3.1  | Configure Multimodal Pipeline to generate artifact images (Image Generation API) and corresponding text blurbs.         | 1.3            | 2 Weeks    |
-| ☐      | 3.2  | Develop website module for Gamification Voting (Possible/Not) and track results to a database.                 | 2.4            | 3 Weeks    |
+| ☐      | 3.2  | Develop website module for Gamification Voting (Possible/Not) and track results to a database.                          | 2.4            | 3 Weeks    |
 | ☐      | 3.3  | Integrate LLM Expansion Workflow (using Gemini Pro) to convert short bot responses into 1,000+ word SEO article drafts. | 2.2, 2.4       | 3 Weeks    |
-| ☐      | 3.4  | Set up Automated Posting schedule/tool (e.g., Buffer) for all social platforms and the website.               | 3.1            | 2 Weeks    |
+| ☐      | 3.4  | Set up Automated Posting schedule/tool (e.g., Buffer) for all social platforms and the website.                         | 3.1            | 2 Weeks    |
 
 ### Phase 4: Launch & Research Calibration (Weeks 13-16)
 
