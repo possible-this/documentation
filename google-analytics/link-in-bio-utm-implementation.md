@@ -56,6 +56,35 @@ This set of parameters is applied to **every button/link** you create within the
 
 ---
 
+# Step 3: Integrating Google Analytics (GA4) 📊
+
+To track the views and clicks on the Link-in-Bio page itself, you must integrate your **Google Analytics 4 (GA4) Measurement ID**.
+
+> **NOTE:** The exact steps may vary slightly depending on the Link-in-Bio platform, but the process is generally the same.
+
+---
+
+## 1. Get Your GA4 Measurement ID
+
+1.  Go to your Google Analytics account.
+2.  Navigate to **Admin** (gear icon) in the bottom left.
+3.  Under the Property column, click **Data Streams**.
+4.  Click on your relevant **Web stream**.
+5.  The **Measurement ID** will be displayed (it starts with `G-XXXXXXXXXX`). **Copy this ID.**
+
+## 2. Implement the ID on the Bio Site Platform
+
+1.  Log in to your Link-in-Bio platform (e.g., Biosites, Linktree, etc.).
+2.  Navigate to the **Settings, Analytics, or Integrations** section.
+3.  Look for a field labeled:
+    * "Google Analytics 4 Measurement ID"
+    * "Google Analytics Tracking ID (GA4)"
+4.  Paste your **`G-XXXXXXXXXX`** Measurement ID into this dedicated field and **save the changes**.
+
+The Link-in-Bio platform automatically injects the necessary GA4 code (global site tag) into your page, allowing you to track visitors, views, and the sources captured by the UTMs in Step 1.
+
+---
+
 ## 💡 Analytics Insight
 
 By following this two-stage implementation:
