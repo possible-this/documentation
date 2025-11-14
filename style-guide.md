@@ -24,16 +24,10 @@ This palette is designed to be **dark-mode first**, ensuring the bright blue acc
 We need a font pairing that is **highly readable** for long-form analysis (SEO-driven content) but features a **modern, geometric flair** for headers and titles to emphasize the technology and future focus.
 
 #### 1. Primary Font (The Brand Voice)
-* **Font**: **Roboto** (Set as default in theme.json)
+* **Font**: **Space Grotesque** (Set as default in theme.json)
 * **Style**: Clean, highly readable, modern, versatile sans-serif.
 * **Usage**: All body text, long-form content, detailed analysis, bullet points, table content, and mobile text.
 * **Reason**: **Readability is paramount** for your high-volume SEO content (1,000+ word articles). Clear at small sizes and projects a professional, modern feel.
-
-#### 2. Secondary Font (Headings)
-* **Font**: **Montserrat** (Available in theme.json)
-* **Style**: Geometric flair, authoritative.
-* **Usage**: All Headings (H1-H6) and Site Titles where a more geometric look is desired.
-* **Reason**: Provides a distinct, modern identity for titles, emphasizing the technology and future focus.
 
 ---
 
