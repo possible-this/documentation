@@ -2,7 +2,7 @@
 
 ## I. Project Vision: A Speculative Research Engine
 
-The @Possible This project is a novel intellectual category at the intersection of journalism, critical design, and automated analysis.
+The Possible This project is a novel intellectual category at the intersection of journalism, critical design, and automated analysis.
 
 The goal is to transcend simple content creation or binary "true/false" fact-checking. Instead, the "Possible This" engine provides a rigorous framework for assessing the *potentiality* of content—ranging from breaking news to user-submitted analysis—to elevate the quality of public discourse.
 
