@@ -9,7 +9,7 @@
 | ✅     | 1.3  | Set up Gemini API key/billing, pro account subscription, and establish basic Flash-Lite text generation functionality.                   | nan            | 2 Weeks    |
 | ✅     | 1.4  | Design and implement Link-in-Bio page (e.g., Bio Sites) and UTM naming schema for trackable link funnel, integrating Google Analytics.   | 1.1            | 1 Week     |
 | ☐      | 1.5  | Setup Stripe payment gateway and thoroughly test sandbox.                                                                                | 1.2            | 2 Weeks    |
-| ☐      | 1.6  | Install WordPress/CMS and develop the foundational theme/structure.                                                                      | 1.1            | 1 Week    |
+| ✅     | 1.6  | Install WordPress/CMS and develop the foundational theme/structure.                                                                      | 1.1            | 1 Week    |
 
 ### Phase 2: Core Engineering (Weeks 5-8)
 
